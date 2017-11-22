@@ -3,29 +3,29 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://fespino.es/post/creating-a-new-theme/</loc>
+    <loc>https://fespino.github.io/post/creating-a-new-theme/</loc>
     <lastmod>2014-09-28T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://fespino.es/categories/</loc>
+    <loc>https://fespino.github.io/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://fespino.es/</loc>
-    <lastmod>2014-09-28T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://fespino.es/post/</loc>
+    <loc>https://fespino.github.io/</loc>
     <lastmod>2014-09-28T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://fespino.es/tags/</loc>
+    <loc>https://fespino.github.io/post/</loc>
+    <lastmod>2014-09-28T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://fespino.github.io/tags/</loc>
     <priority>0</priority>
   </url>
   
